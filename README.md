@@ -11,12 +11,12 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* Cuantos habitantes posee la cuidad del Distrito Nacional? 
 
-* ...
+* Que información obtengo al realizar un analisis multitemporal sobre el crecimiento urbano?
 
-* ...
+* Por que es importante realizar un analisis multitemporal sobre el crecimiento urbano?
 
-* ...
+* Cual institucion le puede interesar este tipo de analisis y por que?
 
-* ...
+* Que me motivo a realizar dicha investigacion?

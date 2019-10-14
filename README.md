@@ -11,12 +11,12 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* Cuantos habitantes posee la cuidad del Distrito Nacional? 
+* Se puede apreciar el crecimiento urbano por medio de un analisis multitemporal y el aumento en el tiempo de las construciones verticales?
 
-* Que información obtengo al realizar un analisis multitemporal sobre el crecimiento urbano?
+* Existen en el pais instituciones que ciertamente regulan las construcciones verticales por zonas, y que estas a su vez sean penalizadas si son violentadas? Ya que vivimos en un pais desordenado, y las reglas rara vez se cumplen.
 
-* Por que es importante realizar un analisis multitemporal sobre el crecimiento urbano?
+* Vivimos en un mundo donde el crecimiento es acelerado, por lo que, seria necesario analizar las transformaciones del uso del suelo con la vision de alcanzar mejoras que puedan ayudar a crear un sistema que sea sostenible en el tiempo?.
 
-* Cual institucion le puede interesar este tipo de analisis y por que?
+* Como podemos medir el impacto ambiental que se ha generado en los ultimos 15 años? Debido al crecimiento masivo en los perimetros que delimitan el Distrito Nacional, que es unos de los lugares donde la mayor parte de las migraciones de las personas se asientan, en la busqueda de mejores condiciones de vida.
 
-* Que me motivo a realizar dicha investigacion?
+* 
